@@ -1,0 +1,36 @@
+body {
+  background-image: url("../images/javabackground.gif");
+}
+
+h1 {
+  background-color: #D2B48C;
+  background-image: no-repeat;
+  text-align: center;
+}
+
+nav {
+    text-align: center;
+}
+
+footer {
+  background-color: #D2B48C;
+  font-style: italic;
+  font-size: .80em;
+  text-align: center;
+}
+
+ul {
+  list-style-image: url("../images/marker.gif");
+}
+
+#content{
+  margin-left: 15px;
+}
+
+#container{
+  width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #F5F5DC;
+  box-shadow: 5px 5px 5px #1e1e1e;
+}
